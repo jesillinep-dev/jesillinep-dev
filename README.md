@@ -2,6 +2,10 @@
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODh6N3E2bDMyMXE5Z2p5cmtnanBsdXNnZW12MDNqcWI3Y2pqcDRoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ed1FaePDtIjlz2tunv/giphy.gif" alt="Header GIF" />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jesillinep-dev.jesillinep-dev"  />
+</div>
+
 # 💫 About Me:
 I’m a full-stack developer passionate about building intuitive web and mobile applications. I enjoy combining design and code to create seamless user experiences, and I’m always exploring new technologies to improve my skills.
 
