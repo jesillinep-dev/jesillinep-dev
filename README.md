@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![Header](./github-header-banner.png)"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNpOTlkNW1tNmFvNTBzczEwOHZrZ2MzNHZ3dDZ4MGJjbXV1a2gwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/38I3v6VURNa6QzHJTn/giphy.gif"  />
 </div>
 
 ###
