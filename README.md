@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey there 👋 I'm Jesilline</h1>
-<h2 align="center">Aspiring Full Stack Developer</h2>
+<h3 align="center">💻 Aspiring Full Stack Developer | 🚀 Learning & Building</h3>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jesillinep-dev.jesillinep-dev"  />
