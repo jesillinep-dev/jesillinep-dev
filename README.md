@@ -56,18 +56,3 @@ I’m a full-stack developer passionate about building intuitive web and mobile 
 
 ---
 
-### 📊 GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesillinep-dev&theme=monokai&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesillinep-dev&theme=monokai&layout=compact&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=jesillinep-dev&icon=2&color=10" alt="Visit Count" />
-  </a>
-</div>
